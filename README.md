@@ -26,7 +26,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Additional Resources](#-additional-resources)
 
-### 🔗 How to crack your fifth semester at FAST NUCES!
+### 🔗 How to crack your sixth semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
@@ -41,77 +41,102 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
-    <td><a href="#-database-systems">Parallel & Distributed Computing</a></td>
+    <td>CS4031</td>
+    <td>CC</td>
+    <td><a href="#-compiler-construction">Compiler Construction</a></td>
     <td>Core</td>
     <td>3</td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
-    <td><a href="#-design--analysis-of-algorithms">Software Engineering</a></td>
+    <td>CS3009</td>
+    <td>SE</td>
+    <td><a href="#-software-engineering">Software Engineering</a></td>
     <td>Core</td>
     <td>3</td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-    <td><a href="#-computer-networks">Artificial Intelligence</a></td>
+    <td>AI2002</td>
+    <td>AI</td>
+    <td><a href="#-artificial-intelligence">Artificial Intelligence</a></td>
     <td>Core</td>
     <td>3+1</td>
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
-    <td></td>
-    <td><a href="#-software-design--analysis">Technical & Business Writing</a></td>
+    <td>CS3014</td>
+    <td>AHCI</td>
+    <td><a href="#-applied-human-computer-interaction">Applied Human Computer Interaction</a></td>
     <td>Core</td>
     <td>3</td>
   </tr>
   <tr>
-    <td rowspan="5" style="text-align:center;">5</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>SS2012</td>
+    <td>TBW</td>
+    <td><a href="#-technical--business-writing">Technical & Business Writing</a></td>
+    <td>Core</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td rowspan="7" style="text-align:center;">6</td>
+    <td>CS4045</td>
+    <td>DLP</td>
+    <td><a href="#-deep-learning-for-perception">Deep Learning for Perception</a></td>
     <td>Elective</td>
     <td>3</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>CS4051</td>
+    <td>IR</td>
+    <td><a href="#-information-retrieval">Information Retrieval</a></td>
     <td>Elective</td>
     <td>3</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>CS4048</td>
+    <td>DS</td>
+    <td><a href="#-data-science">Data Science</a></td>
     <td>Elective</td>
     <td>3</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>CS2008</td>
+    <td>NC</td>
+    <td><a href="#-numerical-computing">Numerical Computing</a></td>
     <td>Elective</td>
     <td>3</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>CS4044</td>
+    <td>FSPM</td>
+    <td><a href="https://github.com/MuxammilSidd/FAST-KHI-Semester-5/tree/main/Fundamentals%20of%20Software%20Project%20Management">Fundamentals of Software Project Management</a></td>
+    <td>Elective</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>CS4032</td>
+    <td>WP</td>
+    <td><a href="https://github.com/MuxammilSidd/FAST-KHI-Semester-5/tree/main/Web%20Programming">Web Programming</a></td>
+    <td>Elective</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>CS4068</td>
+    <td>NPS</td>
+    <td><a href="#-network-protocols--standards">Network Protocols & Standards</a></td>
     <td>Elective</td>
     <td>3</td>
   </tr>
   <tr>
     <td colspan="5" style="text-align:right;"><b>Total Credit Hours:</b></td>
-    <td><b>17</b></td>
+    <td><b>19</b></td>
   </tr>
 </table>
+
+<i>Note</i>: "[Fundamentals of Software Project Management](https://github.com/MuxammilSidd/FAST-KHI-Semester-5/tree/main/Fundamentals%20of%20Software%20Project%20Management)" and "[Web Programming](https://github.com/MuxammilSidd/FAST-KHI-Semester-5/tree/main/Web%20Programming)" were offered in the 5th Semester for Batch-23K (CS) and then offered in the 6th Semester again, hence the relevant material can be found in [FAST-KHI-Semester-5](https://github.com/MuxammilSidd/FAST-KHI-Semester-5). "**Compiler Construction**" was introduced as a compulsory course for 6th sem students, increasing the distinct course count from **5** to **6**. **"Numerical Computing"** which was a compulsory 4th semester course in earlier batches, was introduced as an elective in Spring'26.
+
 
 ## 🔗 Useful Websites you should know!
 
@@ -177,11 +202,9 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 pata chale toh mujhe bhi bata dena pls
 
 ## 🔗 Course wise guide
-### 📌 Parallel & Distributed Computing:
-🔗 Useful Youtube Playlists:
-- []()
 
-🔗 Projects:
+### 📌 Compiler Construction:
+🔗 Useful Youtube Playlists:
 
 🔗 Resources:
 
@@ -192,6 +215,7 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Full courses:
 
 ---
+
 ### 📌 Software Engineering:
 🔗 Useful Youtube Playlists:
 
@@ -216,7 +240,72 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Full courses:
 
 ---
+### 📌 Applied Human Computer Interaction:
+🔗 Useful Youtube Playlists:
+- []()
+---
+
 ### 📌 Technical & Business Writing:
+🔗 Useful Youtube Playlists:
+
+🔗 Resources:
+
+🔗 Lab:
+
+🔗 Google Drives:
+
+🔗 Full courses:
+
+---
+### 📌 Deep Learning for Perception:
+🔗 Useful Youtube Playlists:
+
+🔗 Resources:
+
+🔗 Lab:
+
+🔗 Google Drives:
+
+🔗 Full courses:
+
+---
+### 📌 Information Retrieval:
+🔗 Useful Youtube Playlists:
+
+🔗 Resources:
+
+🔗 Lab:
+
+🔗 Google Drives:
+
+🔗 Full courses:
+
+---
+### 📌 Data Science:
+🔗 Useful Youtube Playlists:
+
+🔗 Resources:
+
+🔗 Lab:
+
+🔗 Google Drives:
+
+🔗 Full courses:
+
+---
+### 📌 Numerical Computing:
+🔗 Useful Youtube Playlists:
+
+🔗 Resources:
+
+🔗 Lab:
+
+🔗 Google Drives:
+
+🔗 Full courses:
+
+---
+### 📌 Network Protocols & Standards:
 🔗 Useful Youtube Playlists:
 
 🔗 Resources:
